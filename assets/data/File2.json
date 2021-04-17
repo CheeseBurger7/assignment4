@@ -1,0 +1,23 @@
+{
+	"DotNet":
+    [
+        {
+            "name": "Introduction to Algorithms",
+            "publisher": "Manning Publications",
+            "author": "Jon Skeet",
+            "opinion": "Very Good"
+        },
+        {
+            "name": "CLR via C#",
+            "publisher": "Sams Publishing",
+            "author": "Jefferey Richter",
+            "opinion": "Excellent"
+        },
+        {
+            "name": "Pro ASP.NET Core 3: Develop Cloud-Ready Web Applications Using MVC, Blazor, and Razor Pages",
+            "publisher": "Apress",
+            "author": "Adam Freeman",
+            "opinion": "Brilliant"
+        }
+    ]
+}

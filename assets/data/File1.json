@@ -1,0 +1,23 @@
+{
+	"DataStructures":
+    [
+        {
+            "name": "Introduction to Algorithms",
+            "publisher": "MIT Press",
+            "author": "Thomas Cormen",
+            "opinion": "Above Average"
+        },
+        {
+            "name": "Data Structures and Algorithms in Java",
+            "publisher": "Sams Publishing",
+            "author": "Robert Lafore",
+            "opinion": "Below Average"
+        },
+        {
+            "name": "Algorithms in C++",
+            "publisher": "Addison-Wesley",
+            "author": "Robert Sedgewick",
+            "opinion": "Quite Good"
+        }
+    ]
+}
